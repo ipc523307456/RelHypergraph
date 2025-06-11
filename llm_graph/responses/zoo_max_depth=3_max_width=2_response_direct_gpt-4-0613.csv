@@ -1,0 +1,14 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pVSrBqaq5ikSoifOq73gLt77yCu,stop,0,,"Zoo - Animal, Circus
+Animal - Zoo, Elephant
+Elephant - Animal, Trunk
+Squirrel - Animal, Rodent
+Circus - Zoo, Balloon
+Trunk - Elephant, Car
+Rodent - Squirrel, Attic
+Balloon - Circus, Car
+Attic - Rodent, Squirrel
+Car - Trunk, Balloon
+
+So, the edgelist would be:
+(Zoo, Animal), (Zoo, Circus), (Animal, Elephant), (Elephant, Trunk), (Squirrel, Animal), (Squirrel, Rodent), (Circus, Balloon), (Trunk, Car), (Rodent, Attic), (Balloon, Car), (Attic, Squirrel), (Car, Trunk)",1711653314,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=163, prompt_tokens=79, total_tokens=242)"

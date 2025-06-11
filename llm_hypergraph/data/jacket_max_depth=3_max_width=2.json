@@ -1,0 +1,1 @@
+{"jacket": ["coat", "shell"], "coat": ["closet", "jacket"], "shell": ["material", "husk"], "closet": ["bedroom", "clothes"], "material": ["wood", "wool"], "husk": ["chaff", "shell"], "bedroom": ["closet"], "clothes": ["closet", "wool"], "wood": ["material"], "wool": ["material", "clothes"], "chaff": ["husk"]}

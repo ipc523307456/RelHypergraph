@@ -1,0 +1,21 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pTEYhqk0SbNcFYsBTtfo0FJBtuT,stop,0,,"1. Dog - Bark
+2. Dog - House
+3. Bark - Dog
+4. House - Dog
+5. House - Home
+6. Tree - Plant
+7. Tree - Grow
+8. Building - Town
+9. Building - Bank
+10. Home - House
+11. Home - Place
+12. Plant - Tree
+13. Plant - Grow
+14. Grow - Tree
+15. Grow - Plant
+16. Town - Building
+17. Town - Bank
+18. Bank - Building
+19. Bank - Town
+20. Place - Home",1711653176,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=119, prompt_tokens=80, total_tokens=199)"

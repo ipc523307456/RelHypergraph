@@ -1,0 +1,9 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-96YESGsT29FgR4iXnKVU8WmDXcndg,stop,0,,"1. {cake, birthday, celebration, party}
+2. {cake, dessert}
+3. {birthday, celebration, party}
+4. {lizard, garden, rock}
+5. {celebration, party}
+6. {garden, rock}
+7. {birthday, cake}
+8. {party, cake}",1711348584,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=68, prompt_tokens=64, total_tokens=132)"

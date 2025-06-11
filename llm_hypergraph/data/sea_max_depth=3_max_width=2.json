@@ -1,0 +1,1 @@
+{"sea": ["ocean", "water"], "ocean": ["sail", "sea"], "water": ["lake", "drink"], "sail": ["boat", "wind"], "lake": ["water", "pond"], "drink": ["liquid", "beverage"], "boat": ["water", "sail"], "wind": ["sail"], "pond": ["water", "lake"], "liquid": ["drink", "water"], "beverage": ["drink"]}

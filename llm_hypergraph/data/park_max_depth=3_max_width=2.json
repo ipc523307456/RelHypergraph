@@ -1,0 +1,1 @@
+{"park": ["grass", "slide"], "grass": ["park", "lawn"], "slide": ["park", "glass"], "lawn": ["yard", "green"], "glass": ["window", "drinking"], "yard": ["lawn"], "green": ["grass", "lawn"], "window": ["glass"], "drinking": ["glass"]}

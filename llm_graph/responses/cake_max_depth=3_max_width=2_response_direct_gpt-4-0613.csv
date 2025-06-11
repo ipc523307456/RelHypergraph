@@ -1,0 +1,12 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pT2GDc5MOesx4b2KHYi5sGe4NoK,stop,0,,"(""cake"", ""birthday""),
+(""cake"", ""dessert""),
+(""birthday"", ""celebration""),
+(""birthday"", ""party""),
+(""dessert"", ""party""),
+(""dessert"", ""celebration""),
+(""celebration"", ""party""),
+(""party"", ""garden""),
+(""lizard"", ""garden""),
+(""lizard"", ""rock""),
+(""garden"", ""rock"").",1711653164,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=80, prompt_tokens=74, total_tokens=154)"

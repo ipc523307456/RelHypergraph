@@ -1,0 +1,1 @@
+{"orange": ["fruit", "peel"], "fruit": ["eat", "you"], "peel": ["skin", "orange"], "eat": ["food", "hunger"], "you": ["me", "body"], "skin": ["body", "mole"], "food": ["eat"], "hunger": ["eat", "food"], "me": ["you"], "body": [], "mole": ["skin"]}

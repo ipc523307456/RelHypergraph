@@ -1,0 +1,1 @@
+{"table": ["furniture", "on"], "furniture": ["house", "room"], "on": ["off"], "house": ["building", "home"], "room": ["house", "space"], "off": ["on", "plate"], "building": ["house", "home"], "home": ["house", "building"], "space": ["room"], "plate": ["table"]}

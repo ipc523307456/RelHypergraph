@@ -1,0 +1,1 @@
+{"sky": ["blue", "cloud"], "blue": ["color", "sky"], "cloud": ["sky", "white"], "color": ["red", "blue"], "white": ["black", "cloud"], "red": ["color", "blue"], "black": ["color", "white"]}

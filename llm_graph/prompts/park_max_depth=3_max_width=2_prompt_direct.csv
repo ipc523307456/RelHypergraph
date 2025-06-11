@@ -1,0 +1,5 @@
+,prompt
+0,"Consider the following concepts: park, grass, slide, lawn, glass, yard, green, window, drinking.
+Suppose that these concepts are nodes of an undirected graph.
+For each concept, consider 2 most related concepts.
+According to the relations between these concepts, which edges should be included? Please answer with an edgelist."

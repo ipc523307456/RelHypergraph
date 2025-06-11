@@ -1,0 +1,19 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pU8aYpuIfUejfRxsXBL5wYazhUk,stop,0,,"jacket - coat
+jacket - clothes
+coat - clothes
+coat - wool
+shell - husk
+shell - chaff
+closet - bedroom
+closet - clothes
+material - clothes
+material - wood
+husk - chaff
+bedroom - closet
+clothes - jacket
+clothes - coat
+wood - material
+wool - coat
+chaff - shell
+chaff - husk",1711653232,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=86, prompt_tokens=82, total_tokens=168)"

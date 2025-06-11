@@ -1,0 +1,47 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pTeiyNP3GDez24OQTYluIFgmBzB,stop,0,,"The edges that should be included based on the relations between these concepts are as follows:
+
+1. Human - School
+2. Human - Home
+3. School - Learn
+4. School - Study
+5. Home - Bed
+6. Home - Building
+7. Learn - Knowledge
+8. Learn - Study
+9. Place - Location
+10. Place - Building
+11. House - Home
+12. House - Building
+13. Study - Learn
+14. Study - Knowledge
+15. Knowledge - Learn
+16. Knowledge - Study
+17. Location - Place
+18. Location - Building
+19. Bed - Home
+20. Bed - Building
+21. Building - Home
+
+Edgelist:
+1. (Human, School)
+2. (Human, Home)
+3. (School, Learn)
+4. (School, Study)
+5. (Home, Bed)
+6. (Home, Building)
+7. (Learn, Knowledge)
+8. (Learn, Study)
+9. (Place, Location)
+10. (Place, Building)
+11. (House, Home)
+12. (House, Building)
+13. (Study, Learn)
+14. (Study, Knowledge)
+15. (Knowledge, Learn)
+16. (Knowledge, Study)
+17. (Location, Place)
+18. (Location, Building)
+19. (Bed, Home)
+20. (Bed, Building)
+21. (Building, Home)",1711653202,gpt-3.5-turbo-0613,chat.completion,,"CompletionUsage(completion_tokens=294, prompt_tokens=80, total_tokens=374)"

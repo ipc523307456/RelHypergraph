@@ -1,0 +1,1 @@
+{"dog": ["bark", "house"], "bark": ["tree", "dog"], "house": ["building", "home"], "tree": ["plant", "grow"], "building": ["town", "bank"], "home": ["house", "place"], "plant": ["grow", "tree"], "grow": ["plant", "tree"], "town": ["building"], "bank": ["building", "place"], "place": ["home", "bank"]}

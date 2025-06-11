@@ -1,0 +1,1 @@
+{"moon": ["space", "earth"], "space": ["outer", "star"], "earth": ["planet", "spherical"], "outer": ["outward", "out"], "star": ["space", "sky"], "planet": ["space", "object"], "spherical": ["earth", "ball"], "outward": ["outer"], "out": [], "sky": ["star"], "object": ["ball"], "ball": ["object", "spherical"]}

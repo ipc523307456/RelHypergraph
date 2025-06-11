@@ -1,0 +1,1 @@
+{"cake": ["birthday", "dessert"], "birthday": ["celebration", "cake"], "dessert": ["cake", "lizard"], "celebration": ["birthday", "party"], "lizard": ["garden", "rock"], "party": ["celebration", "birthday"], "garden": ["lizard"], "rock": []}

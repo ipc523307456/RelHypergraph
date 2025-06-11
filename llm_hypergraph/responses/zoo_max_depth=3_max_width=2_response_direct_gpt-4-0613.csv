@@ -1,0 +1,15 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-96Zdeoh9veXMkgP7UyVojrDP61V54,stop,0,,"1. {zoo, animal} - Zoos house animals.
+2. {zoo, elephant} - Zoos often have elephants.
+3. {zoo, squirrel} - Some zoos may have squirrels.
+4. {animal, elephant} - An elephant is an animal.
+5. {animal, squirrel} - A squirrel is an animal.
+6. {elephant, trunk} - Elephants have trunks.
+7. {squirrel, rodent} - Squirrels are rodents.
+8. {circus, animal} - Circuses often feature animals.
+9. {circus, elephant} - Circuses often feature elephants.
+10. {circus, balloon} - Balloons are often found at circuses.
+11. {attic, squirrel} - Squirrels can often be found in attics.
+12. {car, trunk} - Cars have trunks.
+13. {circus, zoo} - Both are places where animals can be seen.
+14. {animal, rodent} - Rodents are a type of animal.",1711353990,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=222, prompt_tokens=69, total_tokens=291)"

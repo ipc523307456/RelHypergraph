@@ -1,0 +1,12 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-96Zc61mNaT4DKUqL6Imk5BxKR16rW,stop,0,,"1. {jacket, coat, clothes} - These are all types of clothing.
+2. {jacket, coat, material, wool} - Jackets and coats are made from materials such as wool.
+3. {shell, husk, chaff} - These are all protective outer layers.
+4. {closet, bedroom} - Closets are typically found in bedrooms.
+5. {jacket, coat, closet} - Jackets and coats are items that are typically stored in a closet.
+6. {material, wood, wool} - Wood and wool are types of materials.
+7. {closet, clothes} - Clothes are typically stored in a closet.
+8. {shell, husk, material} - Shells and husks can be considered as materials.
+9. {bedroom, clothes, closet} - Clothes are stored in a closet which is typically found in a bedroom.
+10. {jacket, coat, shell} - In the context of clothing, a shell can refer to a type of jacket or coat.
+11. {wood, closet} - Closets can be made of wood.",1711353894,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=229, prompt_tokens=72, total_tokens=301)"

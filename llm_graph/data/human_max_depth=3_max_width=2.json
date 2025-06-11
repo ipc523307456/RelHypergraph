@@ -1,0 +1,1 @@
+{"human": ["school", "home"], "school": ["learn", "place"], "home": ["house", "place"], "learn": ["study", "knowledge"], "place": ["location", "bed"], "house": ["building", "home"], "study": ["learn"], "knowledge": ["learn", "study"], "location": ["place"], "bed": ["place"], "building": ["house", "school"]}

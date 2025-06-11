@@ -1,0 +1,1 @@
+{"fly": ["insect", "bug"], "insect": ["bug", "flea"], "bug": ["meadow", "wiretap"], "flea": ["dog", "insect"], "meadow": ["wood", "hayfield"], "wiretap": ["investigation", "tap"], "dog": ["flea"], "wood": [], "hayfield": [], "investigation": ["wiretap"], "tap": []}

@@ -1,0 +1,12 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pTTGcdWdvyO1G3cihRtaGTvzkj7,stop,0,,"1. Fly - Insect, Bug
+2. Insect - Fly, Bug
+3. Bug - Insect, Fly
+4. Flea - Dog, Insect
+5. Meadow - Hayfield, Wood
+6. Wiretap - Investigation, Tap
+7. Dog - Flea, Hayfield
+8. Wood - Meadow, Hayfield
+9. Hayfield - Meadow, Dog
+10. Investigation - Wiretap, Tap
+11. Tap - Wiretap, Investigation",1711653191,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=100, prompt_tokens=83, total_tokens=183)"

@@ -1,0 +1,18 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pVCIhdFwFiG4WToED3aeBkQE6x0,stop,0,,"1. (table, furniture)
+2. (table, plate)
+3. (furniture, house)
+4. (furniture, room)
+5. (on, table)
+6. (on, plate)
+7. (house, room)
+8. (house, building)
+9. (room, space)
+10. (room, furniture)
+11. (off, on)
+12. (building, house)
+13. (home, house)
+14. (home, room)
+15. (space, room)
+16. (plate, table)
+17. (plate, on)",1711653298,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=121, prompt_tokens=78, total_tokens=199)"

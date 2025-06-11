@@ -1,0 +1,1 @@
+{"zoo": ["animal", "elephant"], "animal": ["zoo", "squirrel"], "elephant": ["circus", "trunk"], "squirrel": ["animal", "rodent"], "circus": ["elephant", "balloon"], "trunk": ["attic", "car"], "rodent": ["squirrel"], "balloon": [], "attic": ["trunk"], "car": []}

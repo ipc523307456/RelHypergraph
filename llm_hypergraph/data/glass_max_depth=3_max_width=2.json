@@ -1,0 +1,1 @@
+{"glass": ["window", "drinking"], "window": ["glass", "opening"], "drinking": ["urinate", "thirst"], "opening": ["step", "initiative"], "urinate": ["full", "bathroom"], "thirst": ["drink", "hunger"], "step": [], "initiative": ["opening"], "full": [], "bathroom": [], "drink": ["thirst", "glass"], "hunger": []}

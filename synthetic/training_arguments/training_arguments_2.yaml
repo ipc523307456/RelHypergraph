@@ -1,0 +1,14 @@
+evaluation_strategy: "steps"
+eval_steps: 1000 # Only for evaluation_strategy = "steps"
+num_train_epochs: 1000
+lr: 0.00002
+weight_decay: 0.01
+lr_scheduler_type: "cosine"
+warmup_ratio: 0.05
+save_strategy: "steps"
+save_steps: 10000 # Only for save_strategy = "steps"
+save_total_limit: 20
+logging_steps: 1000
+logging_strategy: "steps"
+per_device_eval_batch_size: 256
+per_device_train_batch_size: 256

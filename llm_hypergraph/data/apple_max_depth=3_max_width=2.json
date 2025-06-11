@@ -1,0 +1,1 @@
+{"apple": ["fruit", "red"], "fruit": ["eat", "you"], "red": ["color", "colour"], "eat": ["food", "hunger"], "you": ["me", "body"], "color": ["red", "blue"], "colour": ["red", "blue"], "food": ["eat"], "hunger": ["eat", "food"], "me": ["you"], "body": [], "blue": ["color", "colour"]}

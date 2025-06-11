@@ -1,0 +1,12 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-96ZcPyGo4smpDXEJTOpBdBhJizCAV,stop,0,,"1. {orange, fruit, food}
+2. {orange, peel, skin}
+3. {fruit, eat, you, me}
+4. {food, eat, hunger, you, me}
+5. {orange, eat, you, me}
+6. {fruit, body, you, me}
+7. {food, body, you, me}
+8. {orange, mole, skin}
+9. {peel, skin, orange}
+10. {hunger, eat, food}
+11. {body, eat, food}",1711353913,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=113, prompt_tokens=70, total_tokens=183)"

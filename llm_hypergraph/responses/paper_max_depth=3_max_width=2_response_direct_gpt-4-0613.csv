@@ -1,0 +1,13 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-96ZcfyMl8UAJB0dVImbpEvLWJ4HMF,stop,0,,"1. {paper, write, pen}
+2. {sheet, bed, sleep}
+3. {office, paper, pen}
+4. {pocket, clothes}
+5. {bed, closet, bedroom, furniture}
+6. {paper, sheet, office}
+7. {bed, sleep, bedroom}
+8. {closet, clothes, bedroom}
+9. {pen, pocket, clothes}
+10. {furniture, office, bedroom}
+11. {write, pen, paper, office}
+12. {bed, sheet, sleep, bedroom}",1711353929,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=115, prompt_tokens=72, total_tokens=187)"

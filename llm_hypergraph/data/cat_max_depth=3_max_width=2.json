@@ -1,0 +1,1 @@
+{"cat": ["lap", "bed"], "lap": ["lick", "cover"], "bed": ["sleep", "furniture"], "lick": ["bat", "cream"], "cover": ["book", "blanket"], "sleep": ["dream", "eye"], "furniture": ["house", "room"], "bat": [], "cream": [], "book": ["cover"], "blanket": ["cover"], "dream": ["sleep", "bed"], "eye": [], "house": ["room", "furniture"], "room": ["house", "bed"]}

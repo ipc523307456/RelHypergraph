@@ -1,0 +1,1 @@
+{"computer": ["house", "device"], "house": ["building", "home"], "device": ["stethoscope", "bomb"], "building": ["town", "bank"], "home": ["house", "place"], "stethoscope": ["doctor", "device"], "bomb": ["up", "city"], "town": ["city", "building"], "bank": ["building", "place"], "place": ["home", "city"], "doctor": ["stethoscope"], "up": [], "city": ["town", "place"]}

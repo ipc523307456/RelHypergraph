@@ -1,0 +1,14 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pSuY8SDrPG6wJBXUm8U4lsFBSdW,stop,0,,"The edgelist for the given concepts, considering the 2 most related concepts for each, would be as follows:
+
+1. cake - birthday, dessert
+2. birthday - cake, celebration
+3. dessert - cake, party
+4. celebration - birthday, party
+5. lizard - garden, rock
+6. party - dessert, celebration
+7. garden - lizard, rock
+8. rock - garden, lizard
+
+Therefore, the edges in the graph would be:
+(cake, birthday), (cake, dessert), (birthday, celebration), (dessert, party), (celebration, party), (lizard, garden), (lizard, rock), (garden, rock).",1711653156,gpt-3.5-turbo-0613,chat.completion,,"CompletionUsage(completion_tokens=144, prompt_tokens=74, total_tokens=218)"

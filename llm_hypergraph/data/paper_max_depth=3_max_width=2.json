@@ -1,0 +1,1 @@
+{"paper": ["write", "sheet"], "write": ["paper", "pen"], "sheet": ["bed", "closet"], "pen": ["office", "pocket"], "bed": ["sleep", "furniture"], "closet": ["bedroom", "clothes"], "office": ["pen"], "pocket": ["pen"], "sleep": ["bed"], "furniture": ["bed"], "bedroom": ["closet", "bed"], "clothes": ["closet"]}

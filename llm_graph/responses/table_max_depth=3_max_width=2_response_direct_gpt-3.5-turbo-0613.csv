@@ -1,0 +1,15 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-97pV6MikLUI0ZRi5Feaiz5PcQJ3Tx,stop,0,,"The edgelist for the given concepts, considering the 2 most related concepts for each, would be as follows:
+
+1. table - furniture, plate
+2. furniture - table, room
+3. on - off, building
+4. house - room, home
+5. room - house, furniture
+6. off - on, building
+7. building - off, home
+8. home - house, building
+9. space - building, room
+10. plate - table, furniture
+
+Note: The order of the concepts in the edgelist does not imply any specific relationship or hierarchy.",1711653292,gpt-3.5-turbo-0613,chat.completion,,"CompletionUsage(completion_tokens=125, prompt_tokens=78, total_tokens=203)"

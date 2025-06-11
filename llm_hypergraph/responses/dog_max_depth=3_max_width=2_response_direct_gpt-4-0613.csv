@@ -1,0 +1,15 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-96ZazcDhzeYu2BXPRGXhcRosxamhD,stop,0,,"1. {dog, bark} - Dogs are known to bark.
+2. {dog, house, home} - Dogs are often kept as pets in houses or homes.
+3. {house, home, town} - Houses and homes are part of a town.
+4. {house, building} - A house is a type of building.
+5. {tree, plant, grow} - Trees are a type of plant and they grow.
+6. {house, tree, plant} - Houses often have trees or other plants around them.
+7. {building, town} - Buildings are found in towns.
+8. {town, place} - A town is a type of place.
+9. {bank, building, town} - Banks are typically buildings found in towns.
+10. {home, place} - A home is a type of place.
+11. {house, home, building} - Houses and homes are types of buildings.
+12. {plant, place} - Plants are found in places.
+13. {grow, place} - Things grow in places.
+14. {bank, place} - A bank is a type of place.",1711353825,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=235, prompt_tokens=70, total_tokens=305)"

@@ -1,0 +1,13 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-96ZdGwGSJj4TKnsEjYM81HuuvTsXK,stop,0,,"1. {table, furniture}: Table is a type of furniture.
+2. {table, on, plate}: Plate can be on the table.
+3. {furniture, room}: Furniture is usually found in a room.
+4. {room, house}: Room is a part of a house.
+5. {house, building}: House is a type of building.
+6. {house, home}: House can be a home.
+7. {room, space}: Room is a type of space.
+8. {building, space}: Building occupies space.
+9. {table, off, plate}: Plate can be off the table.
+10. {furniture, house}: Furniture is usually found in a house.
+11. {room, home}: Room is a part of a home.
+12. {building, home}: Building can be a home.",1711353966,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=173, prompt_tokens=68, total_tokens=241)"

@@ -1,0 +1,12 @@
+,id,choices_finish_reason,choices_index,choices_logprobs,choices_message,created,model,object,system_fingerprint,usage
+0,chatcmpl-96ZbRyI4cxgTrlvrpgx834n0ZfNSl,stop,0,,"1. {fly, insect, bug}
+2. {flea, insect, bug}
+3. {meadow, hayfield}
+4. {wiretap, investigation, tap}
+5. {dog, flea}
+6. {wood, meadow, hayfield}
+7. {fly, flea, meadow, hayfield}
+8. {wiretap, tap, investigation}
+9. {dog, wood, meadow}
+10. {fly, bug, investigation}
+11. {insect, bug, flea, meadow}",1711353853,gpt-4-0613,chat.completion,,"CompletionUsage(completion_tokens=111, prompt_tokens=73, total_tokens=184)"

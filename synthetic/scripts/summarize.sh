@@ -1,0 +1,2 @@
+export QT_QPA_PLATFORM=offscreen
+python summarize.py
