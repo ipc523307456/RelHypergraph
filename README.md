@@ -1,4 +1,4 @@
-# Relational Learning in Pre-Trained Models:  A Theory from Hypergraph Recovery Perspective (ICML 2025)
+# Relational Learning in Pre-Trained Models:  A Theory from Hypergraph Recovery Perspective (ICML 2024)
 
 
 
